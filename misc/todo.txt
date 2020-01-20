@@ -1,0 +1,20 @@
+immediate:
+- store api keys somewhere safe (DO THIS BEFORE INITIAL COMMIT)
+
+todo:
+
+  UI:
+  top header:
+    - fix height
+    - make it look like material design
+
+  UX:
+    - dont show signup screen on app-open
+
+  MODERATION:
+    - "confirmed as legit" flag for IDs (so that ppl know who to add)
+    - rating system
+
+fix for later
+- if registered, dont show signup screen on load
+- duplicate fetch (temp fix: MAX_FETCH = 100)

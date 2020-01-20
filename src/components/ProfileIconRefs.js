@@ -1,0 +1,33 @@
+var iconRefs = Object.freeze([
+  require('../../assets/img/pokeball.png'),
+  require('../../assets/img/superball.png'),
+  require('../../assets/img/ultra-ball.png'),
+  require('../../assets/img/mega-ball.png'),
+  require('../../assets/img/abra.png'),
+  require('../../assets/img/bellsprout.png'),
+  require('../../assets/img/bullbasaur.png'),
+  require('../../assets/img/caterpie.png'),
+  require('../../assets/img/charmander.png'),
+  require('../../assets/img/dratini.png'),
+  require('../../assets/img/eevee.png'),
+  require('../../assets/img/egg.png'),
+  require('../../assets/img/jigglypuff.png'),
+  require('../../assets/img/mankey.png'),
+  require('../../assets/img/meowth.png'),
+  require('../../assets/img/mew.png'),
+  require('../../assets/img/pidgey.png'),
+  require('../../assets/img/pikachu.png'),
+  require('../../assets/img/pikachu-2.png'),
+  require('../../assets/img/psyduck.png'),
+  require('../../assets/img/rattata.png'),
+  require('../../assets/img/snorlax.png'),
+  require('../../assets/img/squirtle.png'),
+  require('../../assets/img/venonat.png'),
+  require('../../assets/img/weedle.png'),
+  require('../../assets/img/zubat.png'),
+  require('../../assets/img/backpack.png'),
+  require('../../assets/img/crown.png'),
+  require('../../assets/img/fist.png')
+]);
+
+export default iconRefs;
