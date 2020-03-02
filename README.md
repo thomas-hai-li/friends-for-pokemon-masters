@@ -1,9 +1,9 @@
 # Friends for Pokémon Masters
-A stupid simple friend-finding app for the Pokémon Masters mobile game, built in a weekend.
+A simple friend-finding app for the Pokémon Masters mobile game, built in a weekend.
 
-**To Run:** You can't use the app from directly cloning the repo (I've redacted the Firebase API keys womp womp) but you can download it from Google Play. (sorry iPhone users!)
+**To Run:** You can't use the app from directly cloning the repo but you can download it from Google Play while the link is still available.
 
-**Screenshots:** Initial sign-up page, and infinite-scroll list populated with all the Trainers that have signed up.
+**Screenshots:** Initial sign-up page, and infinite-scroll list populated with some of the Trainers that have signed up.
 
 <img align="left" src="https://user-images.githubusercontent.com/34053587/72700084-cb0b7100-3b18-11ea-8636-6c8a8b762e36.jpg" height="800" />
 
